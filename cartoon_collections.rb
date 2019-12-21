@@ -41,6 +41,8 @@ snacks = ["crackers", "gouda", "thyme"]
  cheese_types = ["cheddar", "gouda", "camembert"]
   end 
 
+
+
 def find_the_cheese(array)
   cheese_types = ["cheddar", "gouda", "camembert"]
     array.find do |type|
