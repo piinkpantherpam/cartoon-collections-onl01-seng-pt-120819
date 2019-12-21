@@ -43,7 +43,7 @@ snacks = ["crackers", "gouda", "thyme"]
     cheese_types.include?(type)
   end 
   
-  
+  find_the_cheese(snacks)
 
 def find_the_cheese(array)
   # the array below is here to help
