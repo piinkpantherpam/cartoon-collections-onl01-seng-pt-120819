@@ -42,10 +42,9 @@ snacks = ["crackers", "gouda", "thyme"]
     array.find do |type|
     cheese_types.include?(type)
   end 
-  
-  find_the_cheese(snacks)
 
 def find_the_cheese(array)
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
 end
+
